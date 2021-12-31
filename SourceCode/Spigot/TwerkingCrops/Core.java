@@ -488,6 +488,10 @@ public class Core extends JavaPlugin {
 	    	  Materials.InitExtra();
 	    	  _playerEvents = new PlayerEvents_1_13();
 	    	  _actionBar = new ActionBar_1_16_A();
+	      } else if (version.contains("v1_18_R1")) { 
+	    	  Materials.InitExtra();
+	    	  _playerEvents = new PlayerEvents_1_13();
+	    	  _actionBar = new ActionBar_1_16_A();
 	      } else {
 	    	  NMS = false;
 	      }
