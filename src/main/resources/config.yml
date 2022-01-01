@@ -1,0 +1,20 @@
+#Thanks for download Twerking-Crops.
+#Here you can configure some functions of Twerking-crops.
+#Any problems with our plugin or configuration?
+#Report this on our spigot page please!
+
+Custom:
+   Twerking: 'TRUE'
+   CustomTime: 'FALSE'
+   Particles: 'TRUE'
+   Randomizer: 20
+   TwerkPerSecond: 'FALSE'
+   bStats: 'TRUE'
+   TwerkRange: 3
+   Language: EN
+
+CustomTime: #Seed name in CAPS Example, BEET_ROOTS, WHEAT & Value afther seed is the delay before the crop gets bonemealed once (In seconds)
+   CARROT: 10
+   SEEDS: 20
+   POTATO: 30
+   BEETROOT: 50

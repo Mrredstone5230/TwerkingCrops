@@ -1,0 +1,13 @@
+name: Twerking-Crops
+main: me.YorickBM.TwerkingCrops.Core
+version: '${project.version}'
+api-version: 1.13
+author: YorickBM
+commands:
+   set:
+      description: Set the value of a function/variable In-Game
+      usage: <command> <function> <value>
+   blacklist:
+      description: Blacklist a crop or wolrd In-Game
+      usage: <command> <crop/world> <value>
+      
